@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica 3</string>
+    <string name="lbl3">lbl_3</string>
+    <string name="lbl2">lbl_2</string>
+    <string name="lbl1">lbl1</string>
+    <string name="lbl4">lbl4</string>
+    <string name="lbl5">lbl5</string>
+    <string name="lbl6">lbl6</string>
+</resources>
